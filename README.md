@@ -2,7 +2,7 @@
 
 🎓 MSc Cyber Security Student  
 🔐 Interested in Ethical Hacking, SOC Analysis, Malware Analysis  
-🛡️ Goal: Penetration Tester or SOC Analyst
+🛡️ Goal: Penetration Tester | SOC Analyst
 
 ---
 
