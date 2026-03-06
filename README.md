@@ -1,8 +1,8 @@
 # Hi 👋 I'm Mubashira
 
 🎓 MSc Cyber Security Student  
-🔐 Interested in Ethical Hacking, SOC Analysis, and Digital Forensics  
-🛡️ Goal: Work in Cyber Crime Investigation / Cyber Cell  
+🔐 Interested in Ethical Hacking, SOC Analysis, Malware Analysis  
+🛡️ Goal: Penetration Tester or SOC Analyst
 
 ---
 
@@ -18,7 +18,6 @@
 - Networking
 - Linux
 - Cybersecurity Fundamentals
-- Digital Forensics (Learning)
 
 ---
 
